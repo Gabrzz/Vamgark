@@ -1,0 +1,227 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
+
+a{
+    text-decoration: none;
+}
+
+input{
+    color: white;
+    width: 100%;
+    padding: 10px 15px; /* Ajustado */
+    margin: 8px 0;
+    background-color: rgba(255, 255, 255, 0);
+    border: 2px solid white;
+    border-radius: 10px;
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    font-size: 18px; /* Ajustado */
+}
+
+.menu{
+    width: 100vw;
+    height: 100vh;
+    max-height: 100%;
+    background-image: url(../../img/background-menu-desktop.png);
+    background-repeat: no-repeat;
+    background-color: black;
+    display: flex; /* Adicionado */
+    flex-direction: column; /* Adicionado */
+    align-items: center; /* Adicionado */
+    justify-content: center; /* Adicionado */
+}
+form#login-form {
+    font-family: 'Roboto Slab', serif;
+}
+.img {
+    max-width: 30px;
+    margin: 20px;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+.img img{
+    width: 40px;
+}
+
+
+.main-elements {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 90vh;
+    justify-content: center;
+    font-family: 'Roboto Slab', serif;
+}
+
+.logo {
+    max-width: 400px; /* Diminui o tamanho da logo */
+}
+
+.logout-link {
+    display: block; /* Faz o link ocupar toda a largura */
+    margin-top: 10px; /* Adiciona espaço entre os botões */
+    text-align: center; /* Centraliza o texto do link */
+}
+.font{
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.font-bold{
+    font-family: "Roboto Slab", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.font-light{
+    font-family: "Roboto Slab", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.btn-2 {
+    background-color: #0A58D0;
+    color: white;
+    margin-top: 30px;
+    font-weight: bold;
+}
+.logo-small{
+    width: 70px;
+    margin-bottom: 30px;
+}
+.f-w{
+    color:white;
+}
+.f-16{
+    font-size: 16px;
+}
+.f-20{
+    font-size: 20px;
+}
+.f-24{
+    font-size: 24px;
+}
+.f-32{
+    font-size: 32px;
+}
+.f-40{
+    font-size: 40px;
+}
+.f-48{
+    font-size: 48px;
+}
+.f-64{
+    font-size: 64px;
+}
+
+.login{
+    margin: auto;
+    max-width: 80%;
+    height: auto; /* Ajustado */
+    margin-top: 5%; /* Ajustado */
+    margin-bottom: 5%; /* Ajustado */
+    border: solid 4px rgba(255, 255, 255, 0.80);
+    border-radius: 60px;
+    background-color: rgba(0, 0, 0, 0.60);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 30px; /* Adicionado */
+}
+
+.login-text{
+    padding: 20px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.politicas{
+    margin: auto;
+    max-width: 90%;
+    height: 100vh;
+    border: solid 2px rgba(255, 255, 255, 0.80);
+    border-radius: 60px;
+    background-color: rgba(0, 0, 0, 0.60);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around
+}
+
+.btn-1{
+    background-color: #90909010;
+    color: #0A58D0;
+}
+
+.btn-2{
+    background-color: #0A58D0;
+    color: white;
+}
+
+.my-5 {
+    margin-top: 3rem !important;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 3rem !important;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+@media (max-width: 600px){
+    
+    
+    .logo {
+        max-width: 270px; /* Diminui o tamanho da logo */
+    }
+
+    .logo-small{
+        width: 40px;
+        margin-bottom: 30px;
+    }
+
+    .login{
+        margin: auto;
+        max-width: 85%;
+        height: auto; /* Ajustado */
+        margin-top: 5%; /* Ajustado */
+        margin-bottom: 5%; /* Ajustado */
+        border: solid 3px rgba(255, 255, 255, 0.80);
+        border-radius: 40px;
+        background-color: rgba(0, 0, 0, 0.60);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 30px; /* Adicionado */
+    }
+
+    .login-text{
+        padding: 20px;
+        padding-left: 0px;
+    }
+
+    .col-6{
+        width: fit-content;
+    }
+
+    .f-16{
+        font-size: 12px;
+    }
+    .f-20{
+        font-size: 20px;
+    }
+    .f-24{
+        font-size: 16px;
+    }
+    .f-32{
+        font-size: 20px;
+    }
+    .f-40{
+        font-size: 40px;
+    }
+    .f-48{
+        font-size: 48px;
+    }
+    .f-64{
+        font-size: 64px;
+    }
+    
+}

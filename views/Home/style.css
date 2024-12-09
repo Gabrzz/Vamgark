@@ -1,0 +1,505 @@
+
+main{
+    font-family: 'Roboto Slab', serif;
+    color: white;
+  }
+
+.swiper-slide {
+   
+    background-color: #191423;
+    padding: 20px;
+
+    border-bottom: 3px solid #39344D;
+}
+.swiper-button-next, .swiper-button-prev{
+    color: #39344D;
+    margin: 0 30px;
+    top: 120px;
+    font-weight: bold;
+}
+.simbolo-swiper{
+    height: 160px;
+}
+.swiper-slide {
+    display: flex; /* Garante que o conteúdo ocupe toda a altura do slide */
+    align-items: center; /* Alinha o conteúdo verticalmente ao centro */
+  }
+
+.metade-1{
+    height: 240px;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.metade-2{
+    display: flex;
+    color: white;
+    display: flex;
+    height: 240px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    width: 600px;
+    font-size: 20px;
+
+}
+    .metade-2 p{
+        font-weight: 300;
+        font-size: 20px;
+    }
+
+.metade-2 h1{
+    margin-bottom: 0;
+}
+
+.welcome{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+h1{
+    margin-bottom: 0;
+}
+.welcome h2{
+    color: #A97429;
+    margin-top: 5px;
+    margin-bottom: -10px;
+}
+
+.principais{
+    display: flex;
+    justify-content: center;
+    width: 680px;
+}
+.quiz-container{
+    display: flex;
+    justify-content: center;
+   width: min-content;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-evenly;
+    justify-content: center;
+   
+}
+.item{
+    background-color: #191423;
+    border: 3px solid #39344C;
+    border-radius: 20px;
+    padding: 15px;
+    color: white;
+    height: 220px;
+    width: 220px;
+    margin: 20px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.item h1{
+    margin-bottom: 0;
+}
+.item h5{
+    margin-top: 0;
+}
+.item p{
+    font-size: 16px;
+    margin-bottom: 0;
+}
+#dourado{
+    color: #A97429;
+    text-decoration: none;
+    cursor:default;
+    pointer-events: none;
+}
+.item img{
+    width: 150px;
+    margin-top: 10px;
+}
+.posts{
+    text-align: center;
+}
+.quiz-item{
+    background-color: #191423;
+    border: 3px solid #39344C;
+    border-style: dashed;
+    border-radius: 20px;
+    padding: 20px;
+    padding-top: 0;
+    color: white;
+    height: 500px;
+    width: 350px;
+    margin: 20px;
+    margin-top: -10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+
+}
+.quiz-item h1{
+    text-align: center;
+}
+.quiz-item p{
+    font-size: 20px;
+    margin-bottom: 0;
+}
+.item-titulo{
+    background-color: #B9B5C7;
+    border: 3px solid #39344C;
+    border-radius: 50px;
+    padding: 8px;
+    color: #39344C;
+    text-align: center;
+    font-weight: bold;
+    margin-top: -40px;
+}
+
+.quiz-buttons {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    height: 350px;
+  }
+  
+  #sonserina, 
+  #corvinal, 
+  #lufa-lufa, 
+  #grifinoria {
+    border-radius: 50px;
+    border: none;
+    padding: 15px;
+    font-weight: bold;
+    font-size: 18px;
+    transition: all 0.2s ease; /* Adiciona uma transição suave */
+    cursor: pointer;
+  }
+  
+  #sonserina {
+    background-color: #1E7030;
+    color: #BADC83;
+  }
+  
+  #sonserina:hover {
+    background-color: #1a5a28; /* Cor mais escura ao passar o mouse */
+    transform: scale(1.05); /* Aumenta o tamanho do botão */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra */
+  }
+  
+  #corvinal {
+    background-color: #211E70;
+    color: #83A7DC;
+  }
+  
+  #corvinal:hover {
+    background-color: #1b195a; /* Cor mais escura ao passar o mouse */
+    transform: scale(1.05); /* Aumenta o tamanho do botão */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra */
+  }
+  
+  #lufa-lufa {
+    background-color: #A97429;
+    color: #FFEB99;
+  }
+  
+  #lufa-lufa:hover {
+    background-color: #895f22; /* Cor mais escura ao passar o mouse */
+    transform: scale(1.05); /* Aumenta o tamanho do botão */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra */
+  }
+  
+  #grifinoria {
+    background-color: #701E1E;
+    color: #DC8383;
+  }
+  
+  #grifinoria:hover {
+    background-color: #5a1717; /* Cor mais escura ao passar o mouse */
+    transform: scale(1.05); /* Aumenta o tamanho do botão */
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra */
+  }
+
+/* ... outros estilos ... */
+
+/* ... outros estilos ... */
+
+.quiz-buttons button {
+    position: relative; 
+    overflow: hidden; /* Impede que a barra de progresso vaze para fora do botão */
+  }
+  
+  .barra-progresso {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%; /* Largura inicial 0% */
+    height: 100%; /* Altura igual à do botão */
+    background-color: rgba(255, 255, 255, 0.5); /* Cor da barra de porcentagem */
+    transition: width 1s ease; /* Transição suave para a largura */
+    border-radius: 50px; /* Arredondamento igual ao do botão */
+  }
+  
+  /* ... outros estilos ... */
+  
+  /* Classe para ocultar a barra de progresso inicialmente */
+  .barra-progresso-invisivel {
+    display: none; 
+  }
+  
+  .porcentagem {
+    height: 100%;
+    background-color: rgb(255, 255, 255); /* Cor da barra de porcentagem */
+    transition: width 1s ease; /* Transição suave para a largura */
+  }
+  
+  /* Classes para as cores das barras de cada casa */
+  #grifinoria .porcentagem { background-color: #ff0000; }
+  #lufa-lufa .porcentagem { background-color: #ffcc00; }
+  #corvinal .porcentagem { background-color: #0066ff; }
+  #sonserina .porcentagem { background-color: #1eff00; }
+  
+  /* Classe para o botão clicado */
+  .clicado {
+    pointer-events: none; /* Impede que o botão seja clicado novamente */
+    cursor: default;
+    transform: none;
+    box-shadow: none;
+  }
+
+.centralizado{
+  padding: 0 50px;
+  padding-right: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+.centralizado h1{
+  font-size: 25px;
+}
+.botao{
+  background-color: #39344C;
+  border: 3px solid #9E98B4;
+  padding: 20px;
+  color: #9E98B4;
+  border-radius: 50px;
+  margin-top: 30px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 30px;
+  cursor: pointer;
+  transition: all 0.2s ease; 
+}
+.botao:hover{
+        background-color: #895f22; /* Cor mais escura ao passar o mouse */
+        transform: scale(1.05); /* Aumenta o tamanho do botão */
+        color: white;
+        box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.3); /* Adiciona uma sombra */
+        border: 5px solid #e2b572;
+}
+.pontuacao{
+  padding: 0 50px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  text-align: center;
+}
+.barrinha{
+  width: 600px;
+  height: 0px;
+  border: 2px solid #39344D;
+  position: absolute;
+  margin-top: -142px;
+}
+.centralizado img{
+  width: 70px;
+}
+.flag{
+  display: flex;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+    font-size: 20px;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.centralizado #dourado{
+  font-size: smaller;
+}
+
+.barra{
+  width: 400px;
+  height: 31px;
+}
+.titulocontainer{
+  display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    margin-bottom: 60px;
+}
+.titulocontainer h1{
+  margin: 0 10px;
+
+}
+
+.corv{
+  background-color: #211E70;
+  color: #789DD8;
+}
+.grif{
+  background-color: #701E1E;
+  color: #B36D6D;
+}
+.lufa{
+  background-color: #A97429;
+  color: #F8D19B;
+}
+.sons{
+  background-color: #1E7030;
+  color: #98DCA7;
+}
+
+.casas p{
+  color: white;
+  font-size: 20px;
+  padding: 0 30px;
+}
+
+.casas h1{
+  text-align: center;
+}
+
+
+@media (max-width: 768px) {
+    .menu-toggle {
+      display: block;
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      background: none;
+      border: none;
+      color: #fff;
+      font-size: 24px;
+      cursor: pointer;
+    }
+    .welcome h1{
+      font-size: 26px;
+    }
+    .container{
+      flex-wrap: wrap;
+    }
+    .quiz-container{
+      width: 100%;
+    }
+    .centralizado{
+      padding: 20px;
+    }
+    .barrinha{
+      width: 400px;
+      margin-top: -169px;
+    }
+    .pontuacao{
+      padding: 20px;
+      padding-top: 10px;
+      text-align: center;
+    }
+  
+    .menu {
+      display: block; 
+      max-height: 0; 
+    }
+  
+    .nav-menu {
+      flex-direction: column; 
+      text-align: center;
+    }
+  
+    .nav-menu li {
+      margin: 10px 0; 
+    }
+  
+    .header-left,
+    .header-right {
+      display: none; 
+    }
+  
+    .header-center {
+      text-align: center; 
+      width: 100%; 
+    }
+  
+
+  
+    .nav-menu li.social {
+      display: flex;
+      align-items: center;
+    }
+  
+    .swiper {
+      width: 100%; /* Define a largura do Swiper para 100% da tela */
+      overflow: hidden; /* Impede que o conteúdo do slide vaze para fora */
+    }
+  
+    .swiper-slide {
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      width: 100%; 
+      height: auto; /* Remove a altura fixa do slide */
+      padding: 0;
+    }
+  
+    .metade-1 {
+      height: auto;
+      margin-top: 20px;
+      margin-bottom: 0;
+      width: 90%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .metade-2 {
+      height: auto;
+      width: 90%;
+      font-size: 16px;
+      padding: 0 20px;
+    }
+  
+    .metade-2 p {
+      font-size: 16px;
+    }
+  
+    .simbolo-swiper {
+      height: 120px;
+      width: 100%; /* Garante que a imagem ocupe a largura do contêiner */
+      object-fit: contain; /* Ajusta a imagem para caber no contêiner */
+    }
+  
+    .swiper-button-next, .swiper-button-prev {
+      display: none;
+    }
+    .barra{
+      display: none;
+    }
+  }

@@ -1,0 +1,9 @@
+.page-indicator{
+    display: none;
+}
+main{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    display: flex;
+    justify-content: center;
+}

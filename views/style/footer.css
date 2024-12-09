@@ -1,0 +1,102 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+html {
+  scroll-behavior: smooth; /* Torna a rolagem suave em todo o site */
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  flex: 1; 
+}
+
+/* Estilos gerais do footer */
+footer {
+  background-color: #191423;
+  color: #fff;
+  padding: 45px;
+  font-family: 'Roboto Slab', serif;
+  border-top: #39344D solid 3px;
+  font-size: 15px;
+}
+
+/* Estilos para as seções do footer */
+.footer-section {
+  text-align: left;
+}
+
+.footer-section ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-section li {
+  margin-bottom: 10px;
+}
+
+.footer-section a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+/* Estilos para a logo do footer */
+.footer-logo {
+  width: 250px;
+  margin-right: 30px;
+}
+
+/* Estilos para o texto de copyright */
+.footer-bottom {
+  text-align: left;
+  margin-top: 10px;
+  border-top: 2px solid #ffffff;
+  font-weight: lighter;
+}
+
+.footer-bottom p {
+  color: #9E98B4;
+}
+
+.footer-bottom a {
+  color: white;
+  text-decoration: underline;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+  .footer-logo {
+    margin: auto;
+  }
+}
+
+/* Estilos para o contêudo do footer */
+.conteudo { 
+  border: #B9B5C7 solid 2px;
+  padding: 20px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.footer-section a:hover {
+  text-decoration: underline; /* Adiciona um sublinhado */
+  transition: text-decoration 0.2s ease; /* Adiciona uma transição suave */
+}
+
+.back-to-top:hover {
+  opacity: 0.8; /* Diminui a opacidade */
+  transition: opacity 0.2s ease; /* Adiciona uma transição suave */
+}
+
+.footer-logo:hover {
+  transform: scale(1.05); /* Aumenta o tamanho em 5% */
+  transition: transform 0.2s ease; /* Adiciona uma transição suave */
+}

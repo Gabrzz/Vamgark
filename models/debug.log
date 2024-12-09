@@ -1,0 +1,1504 @@
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 1
+    [nome] => Kauan
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 1
+    [nome] => Kauan
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckaua@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 1
+    [nome] => Kauan
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => galo@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => galo@vamgark.com
+    [nome] => Galo
+    [senha] => Clga@2412
+)
+
+Processando email: galo@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => galo@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => galo@vamgark.com
+    [nome] => 
+    [senha] => Clga@2412
+)
+
+Processando email: galo@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 4
+    [nome] => Galo
+    [email] => galo@vamgark.com
+    [senha] => Clga@2412
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => galo@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => galo@vamgark.com
+    [nome] => 
+    [senha] => Clga@241
+)
+
+Processando email: galo@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 4
+    [nome] => Galo
+    [email] => galo@vamgark.com
+    [senha] => Clga@2412
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => galo@vamgark.com
+    [nome] => 
+    [senha] => Clga@2412
+)
+
+Processando email: galo@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 4
+    [nome] => Galo
+    [email] => galo@vamgark.com
+    [senha] => Clga@2412
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => galo@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => galo@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => galo@vamgark.com
+    [nome] => Galo
+    [senha] => galo123
+)
+
+Processando email: galo@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 4
+    [nome] => Galo
+    [email] => galo@vamgark.com
+    [senha] => Clga@2412
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => galo@vamgark.com
+    [nome] => Galo
+    [senha] => Clga@2412
+)
+
+Processando email: galo@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 4
+    [nome] => Galo
+    [email] => galo@vamgark.com
+    [senha] => Clga@2412
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => galo@vamgark.com
+    [nome] => Galo
+    [senha] => Clga@2412
+)
+
+Processando email: galo@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 4
+    [nome] => Galo
+    [email] => galo@vamgark.com
+    [senha] => Clga@2412
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => galo@vamgark.com
+    [nome] => Galo
+    [senha] => Clga@2412
+)
+
+Processando email: galo@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 4
+    [nome] => Galo
+    [email] => galo@vamgark.com
+    [senha] => Clga@2412
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => Kauan
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => Kauan Felipe
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => Kauan Felipe
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => kkkk@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauan@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckaan@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => kkk@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => j
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => sdg
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => sdg
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => aksjd
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan1
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan1
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => felipin@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Recebido POST para verificação: Array
+(
+    [email] => feliin@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Recebido POST para verificação: Array
+(
+    [email] => felipin@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Recebido POST para verificação: Array
+(
+    [email] => felipin@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Recebido POST para verificação: Array
+(
+    [email] => felipin@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => felipin@vamgark.com
+    [nome] => Gabriel
+    [senha] => 08072006
+)
+
+Processando email: felipin@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => felipin@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Recebido POST para verificação: Array
+(
+    [email] => felipin@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => felipin@vamgark.com
+    [nome] => 
+    [senha] => 08072006
+)
+
+Processando email: felipin@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 7
+    [nome] => Gabriel
+    [email] => felipin@vamgark.com
+    [senha] => 08072006
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => felipin2@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => felipin2@vamgark.com
+    [nome] => gabriel2
+    [senha] => 080706
+)
+
+Processando email: felipin2@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauax@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 2
+    [nome] => Kauan Felipe
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 1
+    [nome] => Kauan
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => admin@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => admin@vamgark.com
+    [nome] => 
+    [senha] => admin
+)
+
+Processando email: admin@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 1
+    [nome] => Administrador
+    [email] => admin@vamgark.com
+    [senha] => admin
+    [pontos] => 
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => Kauan
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => admin@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => admin@vamgark.com
+    [nome] => 
+    [senha] => admin
+)
+
+Processando email: admin@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 1
+    [nome] => Administrador
+    [email] => admin@vamgark.com
+    [senha] => admin
+    [pontos] => 
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ckauanx@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ckauanx@vamgark.com
+    [nome] => 
+    [senha] => Kauan123
+)
+
+Processando email: ckauanx@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 8
+    [nome] => Kauan
+    [email] => ckauanx@vamgark.com
+    [senha] => Kauan123
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => admin@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => admin@vamgark.com
+    [nome] => 
+    [senha] => admin
+)
+
+Processando email: admin@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 1
+    [nome] => Administrador
+    [email] => admin@vamgark.com
+    [senha] => admin
+    [pontos] => 
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => gabriel@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => gabriel@vamgark.com
+    [nome] => gabriel
+    [senha] => gabriel
+)
+
+Processando email: gabriel@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => kvngjshjkghfd#@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => kvngjshjkghfd#@vamgark.com
+    [nome] => maria julia caixeta neves
+    [senha] => 123123
+)
+
+Processando email: kvngjshjkghfd#@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => gabriel@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => gabriel@vamgark.com
+    [nome] => 
+    [senha] => gabriel
+)
+
+Processando email: gabriel@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 9
+    [nome] => gabriel
+    [email] => gabriel@vamgark.com
+    [senha] => gabriel
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => ppedrinm@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => ppedrinm@vamgark.com
+    [nome] => Pedro
+    [senha] => 12345
+)
+
+Processando email: ppedrinm@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => gabriel@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => gabriel@vamgark.com
+    [nome] => 
+    [senha] => gabriel
+)
+
+Processando email: gabriel@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 9
+    [nome] => gabriel
+    [email] => gabriel@vamgark.com
+    [senha] => gabriel
+    [pontos] => 0
+    [casa_id] => 
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => gabriel@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => gabriel@vamgark.com
+    [nome] => 
+    [senha] => gabriel
+)
+
+Processando email: gabriel@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 9
+    [nome] => gabriel
+    [email] => gabriel@vamgark.com
+    [senha] => gabriel
+    [pontos] => 0
+    [casa_id] => 
+    [historia] => 
+    [nascimento] => 2024-12-06
+)
+
+Recebido POST para verificação: Array
+(
+    [email] => gabriel@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => gabriel@vamgark.com
+    [nome] => gabriel
+    [senha] => gabriel
+)
+
+Processando email: gabriel@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => mariajulia23052006@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => mariajulia23052006@vamgark.com
+    [nome] => maria julia caixeta neves
+    [senha] => calquercoisa
+)
+
+Processando email: mariajulia23052006@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => gabriel@vamgark.com
+)
+
+Resultado da verificação: 0 rows
+Resultado da verificação: FALSE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => gabriel@vamgark.com
+    [nome] => gabriel
+    [senha] => gabriel
+)
+
+Processando email: gabriel@vamgark.com
+Recebido POST para verificação: Array
+(
+    [email] => gabriel@vamgark.com
+)
+
+Resultado da verificação: 1 rows
+Resultado da verificação: TRUE rows
+Arquivo processa_login.php acessado com sucesso.
+Recebido POST: Array
+(
+    [email] => gabriel@vamgark.com
+    [nome] => 
+    [senha] => gabriel
+)
+
+Processando email: gabriel@vamgark.com
+Usuário encontrado: Array
+(
+    [id_usuario] => 14
+    [nome] => Gabriel
+    [email] => gabriel@vamgark.com
+    [senha] => gabriel
+    [pontos] => 
+    [casa_id] => 
+    [historia] => 
+    [nascimento] => 0000-00-00
+)
+

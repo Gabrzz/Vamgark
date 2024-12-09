@@ -1,0 +1,45 @@
+main{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+#dourado{
+    color: #A97429;
+    text-decoration: none;
+    cursor:default;
+    pointer-events: none;
+}
+.titulo{
+    padding: 20px 50px;
+    font-size: 14px;
+    text-align: center;
+    font-weight: 300;
+}
+.container{
+    margin-top: -20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.evento{
+    display: flex;
+    flex-direction: column;
+    padding: 25px;
+    align-items: center;
+}
+.subtitulo, .nome, .local{
+    margin: 2px;
+    font-size: 14px;
+    width: 260px;
+
+}
+.subtitulo{
+    margin-top: 5px;
+    color: #5B5151;
+}
+.nome{
+    font-weight: bolder;
+}
+.banner{
+    width: 260px;
+}

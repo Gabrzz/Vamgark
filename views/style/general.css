@@ -1,0 +1,73 @@
+.font{
+    font-family: "Roboto Slab", serif;
+    font-weight: 500;
+    font-style: normal;
+}
+.font-bold{
+    font-family: "Roboto Slab", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+.font-light{
+    font-family: "Roboto Slab", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.logo-small{
+    width: 70px;
+}
+.f-w{
+    color:white;
+}
+.f-b{
+    color: #0D091B;
+}
+.f-10{
+    font-size: 10px;
+}
+.f-12{
+    font-size: 12px;
+}
+.f-16{
+    font-size: 16px;
+}
+.f-20{
+    font-size: 20px;
+}
+.f-24{
+    font-size: 24px;
+}
+.f-25{
+    font-size: 25px;
+}
+.f-30{
+    font-size: 30px;
+}
+.f-32{
+    font-size: 32px;
+}
+.f-40{
+    font-size: 40px;
+}
+.f-48{
+    font-size: 48px;
+}
+.f-50{
+    font-size: 50px;
+}
+.f-64{
+    font-size: 64px;
+}
+.f-60{
+    font-size: 60px;
+}
+.f-70{
+    font-size: 70px;
+}
+.f-80{
+    font-size: 80px;
+}
+
+.divisor{
+    height: 100px;
+}
