@@ -1,0 +1,214 @@
+/* Reset básico */
+body, h3, p, table {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Estilos globais */
+  body {
+    background-color: #0D091B;
+    color: #fff;
+    font-family: 'Roboto Slab', serif;
+    min-height: 100vh;
+  }
+  
+  /* Container principal */
+  .admin-container {
+    display: flex;
+    padding: 20px;
+  }
+  
+  /* Menu de navegação */
+  .admin-menu {
+    width: 200px;
+    margin-right: 20px;
+  }
+  
+  .nav {
+    background-color: #191423;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .nav-link {
+    display: block;
+    padding: 10px;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .nav-link:hover {
+    background-color: #A97429;
+    color: #0D091B;
+  }
+  
+  /* Conteúdo principal */
+  .admin-content-wrapper {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  
+  .admin-content {
+    background-color: #191423;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100%;
+    max-width: 960px;
+  }
+  
+  /* Títulos e mensagens */
+  .admin-title {
+    color: #A97429;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .admin-welcome {
+    font-size: 18px;
+    margin-bottom: 20px;
+  }
+  
+  /* Botões */
+  .btn {
+    padding: 8px 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor: pointer;
+    display: inline-block;
+  }
+  
+  .btn-adicionar {
+    background-color: #1E7030;
+    color: #BADC83;
+    border: none;
+    margin-bottom: 20px;
+  }
+  
+  .btn-editar {
+    background-color: #A97429;
+    color: #FFEB99;
+    border: none;
+  }
+  
+  .btn-excluir {
+    background-color: #701E1E;
+    color: #DC8383;
+    border: none;
+  }
+  
+  /* Tabela */
+  .tabela-usuarios {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .tabela-usuarios th,
+  .tabela-usuarios td {
+    padding: 10px;
+    text-align: left;
+    border: 1px solid #39344D;
+  }
+  
+  .tabela-usuarios th {
+    background-color: #292438;
+  }
+  
+  .tabela-usuarios tbody tr:nth-child(even) {
+    background-color: #1E1A2E;
+  }
+  
+  /* Ações da tabela */
+  .botoes-acao {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+  }
+  
+  /* Responsividade */
+  @media (max-width: 768px) {
+    .admin-container {
+      flex-direction: column;
+    }
+  
+    .admin-menu {
+      width: 100%;
+      margin-bottom: 20px;
+    }
+  
+    .admin-content {
+      width: 100%;
+    }
+  
+    .botoes-acao {
+      flex-direction: column;
+    }
+  }
+
+  /* Formulário */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.form-label {
+    color: #A97429;
+    font-size: 16px;
+}
+
+.form-control {
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #39344D;
+    background-color: #292438;
+    color: #fff;
+    font-size: 14px;
+}
+
+.form-control:focus {
+    border-color: #A97429;
+    outline: none;
+}
+
+/* Botões */
+.btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.btn-success {
+    background-color: #1E7030;
+    color: #BADC83;
+    border: none;
+}
+
+.btn-primary {
+    background-color: #A97429;
+    color: #FFEB99;
+    border: none;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+/* Responsividade */
+@media (max-width: 768px) {
+    form {
+        width: 100%;
+    }
+}
+
+.mb-3{
+    display: contents;
+}
